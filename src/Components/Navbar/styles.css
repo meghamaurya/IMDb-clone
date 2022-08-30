@@ -1,0 +1,25 @@
+.navbar{
+    font-size: medium;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navbar-brand{
+    background-color: yellow;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    margin: 3px;
+    border-radius: 5px;
+}
+.dropdown-menu{
+    background-color: rgba(0, 0, 0, 0.402);
+    font-size: medium;
+}
+.navbar-form{
+    padding-left: 30rem;
+}
+.form-control{
+    padding-left: 20rem;
+    padding-right: 5rem;
+    padding-bottom: 20px;
+}
