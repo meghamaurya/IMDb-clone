@@ -1,0 +1,17 @@
+.box{
+    margin-top: 5rem;
+    border: 2px solid black;
+    padding: 40px;
+    width: 670px;
+    font-size: medium;
+}
+.s-btn{
+    background-color: rgb(237, 237, 41);
+    font-size: medium;
+    font-weight: 800;
+}
+.input{
+  padding-left: 5rem;
+  text-align: center;
+  padding-bottom: 10px;
+}
